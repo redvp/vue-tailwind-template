@@ -1,7 +1,6 @@
-# Cloud Programming Project
+# Vue + Tailwind template
 
-2015 Residential Energy Consumption Survey
+## Version information
 
-## Client web app
-
-Vue.js app, with JavaScript config
+- vue : 3.2.16
+- tailwindcss : 2.2.19
